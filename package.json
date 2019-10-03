@@ -1,0 +1,9 @@
+{
+  "name": "common_utils",
+  "version": "1.0.0",
+  "dependencies": {
+    "pip":"19.0.1",
+    "pillow":"6.0.0",
+    "python":"3.6.8"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "size": [2048,2048],
+  "subscription_key": "d7c63760ead5413f87a1563405ca190a",
+  "search_url": "https://api.cognitive.microsoft.com/bing/v7.0/images/search?",
+  "name": "cats",
+  "count": 20
+}
